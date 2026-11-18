@@ -8,7 +8,8 @@ const RSI_PROMPT =
   'that would prevent them. For each, give the exact wording and the file it belongs in ' +
   '(a CLAUDE.md or a memory file). Use the fewest words that keep the point, and merge into ' +
   'an existing bullet or section where one fits. Do not write any file in this reply: ask me ' +
-  'which to apply, with buttons if you can, then apply only the ones I pick. ' +
+  'which to apply, with buttons if you can, then apply only the ones I pick, and after ' +
+  "writing re-check each changed file's structure (no duplicates, right section). " +
   'If nothing is worth a rule, say so.'
 
 export const register: Register = on => {

@@ -1,6 +1,6 @@
 {
   "name": "rsi-button",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Adds a Suggest RSI button above the prompt (and /rsi) that asks Claude to propose up to 3 self-improvement rules from the current session",
   "author": { "name": "PolymathMarsh" },
   "repository": "https://github.com/PolymathMarsh/rsi-button",
