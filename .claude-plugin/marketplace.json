@@ -1,0 +1,8 @@
+{
+  "name": "rsi-button",
+  "owner": { "name": "PolymathMarsh" },
+  "description": "Suggest RSI button for Claude Code",
+  "plugins": [
+    { "name": "rsi-button", "source": "./", "description": "Suggest RSI button above the prompt" }
+  ]
+}
